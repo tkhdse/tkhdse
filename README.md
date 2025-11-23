@@ -13,8 +13,7 @@ I enjoy building systems that demand exceptional speed and resilience:
 
 ### 🌱 Let's Connect!
 
-I am always open to discussing new challenges, especially those involving performance tuning, distributed consensus, or complex infrastructure scaling.
-If you are a recruiter looking for an engineer with a strong foundation in systems and a drive for high performance, please feel free to reach out!
+I am always open to discussing new challenges. If you are looking for an engineer with a strong foundation in systems and a drive for high performance, please feel free to reach out!
 <!--
 **tkhdse/tkhdse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

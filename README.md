@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Tanish!
 
-💡 Software Engineer
-
-Welcome to my GitHub page! I'm a passionate engineer focused on building robust, high-performance systems from the metal up through the cloud. My interests lie at the intersection of extreme scalability, low-latency machine learning, and foundational systems engineering.
+Welcome to my GitHub page! I'm pursuing my MCS degree at UIUC and was previously at Salesforce, Yahoo, and my startup, Nigthshift. 
+I'm a passionate engineer focused on building robust, high-performance systems from the metal up through the cloud. My interests lie at the intersection of extreme scalability, low-latency machine learning, and foundational systems engineering.
 
 ### 🔥 Core Expertise & Interests
 I enjoy building systems that demand exceptional speed and resilience:

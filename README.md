@@ -3,14 +3,7 @@
 Welcome to my GitHub page! I'm pursuing my MCS degree at UIUC and was previously at Salesforce, Yahoo, and my startup, Nightshift. 
 I'm a passionate engineer focused on building robust, high-performance systems from the metal up through the cloud. 
 
-### 🔥 Core Expertise & Interests
-I enjoy building systems that demand exceptional speed and resilience:
-- Low-Latency ML Systems: Designing and optimizing production machine learning pipelines where every millisecond counts, leveraging technologies like CUDA, PyTorch, and high-speed memory architectures.
-- Highly Scalable Cloud & Distributed Systems: Architecting resilient, geo-distributed services on major cloud platforms (GCP & AWS), utilizing Kubernetes, Docker, and event-driven architectures for massive throughput.
-- Deep Systems Engineering: Fascinated by the fundamental layers of computing, I have hands-on experience and deep interest in Compiler/OS internals, systems programming (Rust & C/C++), and kernel-level optimizations.
-
-
-### 🌱 Let's Connect!
+I love work involving C++, Go, CUDA, low-level systems, distributed systems, and compilers.
 
 I am always open to discussing new challenges. If you are looking for an engineer with a strong foundation in systems and a drive for high performance, please feel free to reach out!
 <!--

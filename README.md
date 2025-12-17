@@ -5,7 +5,7 @@ I'm a passionate engineer focused on building robust, high-performance systems f
 
 I love work involving C++, Go, CUDA, low-level systems, distributed systems, and compilers.
 
-I am always open to discussing new challenges. If you are looking for an engineer with a strong foundation in systems and a drive for high performance, please feel free to reach out!
+If you are looking for an engineer with a strong foundation in systems and a drive for high performance, please feel free to reach out!
 <!--
 **tkhdse/tkhdse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

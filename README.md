@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tanish!
 
-Welcome to my GitHub page! I'm pursuing my MCS degree at UIUC and was previously at Salesforce, Yahoo, and my startup, Nightshift. 
+Welcome to my GitHub page! I'm pursuing my BS-MCS degree at UIUC and was previously at Salesforce, Yahoo, and my startup, Nightshift. 
 I'm a passionate engineer focused on building robust, high-performance systems from the metal up through the cloud. 
 
 I love work involving C++, Go, CUDA, low-level systems, distributed systems, and compilers.

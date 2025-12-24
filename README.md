@@ -1,11 +1,9 @@
 ## Hi there 👋 I'm Tanish!
 
-Welcome to my GitHub page! I'm pursuing my BS-MCS degree at UIUC and was previously at Salesforce, Yahoo, and my startup, Nightshift. 
+Welcome to my GitHub page! I'm pursuing my BS-MCS degree at UIUC and was previously at Salesforce, Yahoo, and my startup Nightshift. 
 I'm a passionate engineer focused on building robust, high-performance systems from the metal up through the cloud. 
 
 I love work involving C++, Go, CUDA, low-level systems, distributed systems, and compilers.
-
-If you are looking for an engineer with a strong foundation in systems and a drive for high performance, please feel free to reach out!
 <!--
 **tkhdse/tkhdse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
